@@ -1,14 +1,13 @@
 # VBIS-Chapter3-SQL
 
-Ad Soyad: Gülşən Xəlilova
+Ad Soyad: Sevinc Abdullayeva
 
 Qrup: KOM24B
 
 Chapter 3 Practice Assignment
 
 ## Həll etdiyim tapşırıqlar
-
-Məcburi tapşırıqlar (`mandatory_queries.sql`):
+ (`mandatory_queries.sql`):
 
 - 3.11 (a, b, c, d)
 - 3.15 (a, b, c)
